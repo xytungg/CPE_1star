@@ -1,5 +1,5 @@
 # (UVA10055) Hashmat the brave  2022/06/27
->Tips：整數 要使用long long
+>Tips：整數 要使用long long  
 Q：計算兩隊士兵差距
 
 ```c++
