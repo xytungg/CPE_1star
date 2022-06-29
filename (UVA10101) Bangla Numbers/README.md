@@ -2,7 +2,7 @@
 >Tips：陣列
 Q：kuti(10000000)、lakh(100000)、hajar(1000)、shata(100)
 Eg：23764000，會輸出2 kuti 37 lakh 64 hajar0
-```c++
+```c
 #include <stdio.h>
 void bangla(long long n){
 	if(n >= 10000000){
